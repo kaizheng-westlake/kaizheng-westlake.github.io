@@ -5,7 +5,7 @@ navbar_name: "Kai Zheng"
 positions:
 - name: Undergraduate Student
 - name: Westlake University
-  logo: /assets/images/badges/Westlake_.png  # Logo is optional
+  logo: /assets/images/badges/Westlake.png  # Logo is optional
 
 
 email: "zhengkai06@westlake.edu.cn"
@@ -37,18 +37,20 @@ short_bio: >-
     released as an arXiv preprint.
   </p>
 
-portrait_url: /assets/images/badges/Westlake_.png
+portrait_url: /assets/images/badges/Westlake.png
 # portrait_caption: >-
 #   Photo by ...
 
 education:
 - name: Westlake University
+  logo: /assets/images/badges/Westlake.png
   position: >-
     Undergraduate Student in Artificial Intelligence
   date: Aug. 2024 - present
 
 experience:
 - name: Huang Lab, Westlake University
+  logo: /assets/images/badges/Westlake.png
   position: >-
     Undergraduate Research Assistant
   date: 2024 - present
